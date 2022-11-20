@@ -80,12 +80,19 @@ To load the data use:
 ## Screenshots
 
 ![App Screenshot](Genres Vs Popularity.png)
+
 ![App Screenshot](Movies Vs Ratings per studio.png)
+
 ![App Screenshot](Movies Vs Worldwide gross.png)
+
 ![App Screenshot](Popularity vs Worldwide gross.png)
+
 ![App Screenshot](Budget vs Revenue.png)
+
 ![App Screenshot](Ratings vs Revenue.png)
+
 ![App Screenshot](Popularity vs Runtime.png)
+
 
 
 ## Conclusion
