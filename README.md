@@ -80,19 +80,20 @@ To load the data use:
 ## Screenshots
 
 <img src= "Genres Vs Popularity.png">
-![Screenshot](Genres Vs Popularity.png)
 
-![Screenshot](Movies Vs Ratings per studio.png)
 
-![Screenshot](Movies Vs Worldwide gross.png)
+<img src= "Movies Vs Ratings per studio.png">
 
-![Screenshot](Popularity vs Worldwide gross.png)
+<img src= "Movies Vs Worldwide gross.png">
 
-![Screenshot](Budget vs Revenue.png)
+<img src= "Popularity vs Worldwide gross.png">
 
-![Screenshot](Ratings vs Revenue.png)
+<img src= "Budget vs Revenue.png">
 
-![Screenshot](Popularity vs Runtime.png)
+<img src= "Ratings vs Revenue.png">
+
+<img src= "Popularity vs Runtime.png">
+
 
 
 
