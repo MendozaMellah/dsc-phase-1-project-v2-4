@@ -79,19 +79,25 @@ To load the data use:
 
 ## Screenshots
 
+What are the popular genres in the box office?
 <img src= "Genres Vs Popularity.png">
 
-
+What are the highest rating movies with reference to studio?
 <img src= "Movies Vs Ratings per studio.png">
 
+What are the movies with high world-wide gross?
 <img src= "Movies Vs Worldwide gross.png">
 
+Does popularity affect the worldwide gross?
 <img src= "Popularity vs Worldwide gross.png">
 
+Does budget affect revenue?
 <img src= "Budget vs Revenue.png">
 
+Does rating affect revenue?
 <img src= "Ratings vs Revenue.png">
 
+Does the runtime minutes affect the movie popularity?
 <img src= "Popularity vs Runtime.png">
 
 
