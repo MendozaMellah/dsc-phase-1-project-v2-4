@@ -79,6 +79,7 @@ To load the data use:
 
 ## Screenshots
 
+<img src= "Genres Vs Popularity.png">
 ![Screenshot](Genres Vs Popularity.png)
 
 ![Screenshot](Movies Vs Ratings per studio.png)
