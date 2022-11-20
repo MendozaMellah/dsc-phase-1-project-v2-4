@@ -79,13 +79,13 @@ To load the data use:
 
 ## Screenshots
 
-![Screenshot](Genres Vs Popularity.png)
-![Screenshot](Movies Vs Ratings per studio.png)
-![Screenshot](Movies Vs Worldwide gross.png)
-![Screenshot](Popularity vs Worldwide gross.png)
-![Screenshot](Budget vs Revenue.png)
-![Screenshot](Ratings vs Revenue.png)
-![Screenshot](Popularity vs Runtime.png)
+![App Screenshot](Genres Vs Popularity.png)
+![App Screenshot](Movies Vs Ratings per studio.png)
+![App Screenshot](Movies Vs Worldwide gross.png)
+![App Screenshot](Popularity vs Worldwide gross.png)
+![App Screenshot](Budget vs Revenue.png)
+![App Screenshot](Ratings vs Revenue.png)
+![App Screenshot](Popularity vs Runtime.png)
 
 
 ## Conclusion
